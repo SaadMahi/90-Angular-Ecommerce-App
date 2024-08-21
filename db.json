@@ -53,6 +53,24 @@
       "name": "Shahruk Naik",
       "password": "123",
       "email": "shahnaik@inov.co"
+    },
+    {
+      "id": "4225",
+      "name": "fayez",
+      "password": "baig",
+      "email": "fayez@co.com"
+    },
+    {
+      "id": "123b",
+      "name": "Manoj",
+      "password": "123",
+      "email": "key@m.com"
+    },
+    {
+      "id": "56dd",
+      "name": "saiyan",
+      "password": "123",
+      "email": "we@g.com"
     }
   ],
   "products": [
