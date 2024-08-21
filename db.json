@@ -43,10 +43,16 @@
       "id": "8"
     },
     {
-      "id": "c8b1",
-      "name": "saad",
-      "password": "abc@123",
-      "email": "saad@test.com"
+      "id": "0b6a",
+      "name": "Saad Mahimkar",
+      "password": "123",
+      "email": "saadmahi.dev@gmail.com"
+    },
+    {
+      "id": "9099",
+      "name": "Shahruk Naik",
+      "password": "123",
+      "email": "shahnaik@inov.co"
     }
   ],
   "products": [
